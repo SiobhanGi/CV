@@ -65,8 +65,9 @@ While working in marketing I was constantly monitoring campaigns analytics and a
 
 #### University of Teeside (2009 - 2013)
 
-BA Computer Game Art - enviromental and character concept art
-BA Hons Fine Art - with a focus was on digital illustration and drawing
+BA Computer Game Art - specialised in enviromental and character concept art (the only university in country doing this course.)
+
+BA Hons Fine Art - with a focus was on digital illustration and drawing (transferred to course internally)
 
 #### Blake College (2008 - 2009)
 
