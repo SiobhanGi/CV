@@ -1,5 +1,5 @@
 ## Siobhan Goggins
-### [unstructed, maybe confusing but won't want to work for someone that doesn't understand it, ]
+### [unstructed, maybe confusing but won't want to work for someone that doesn't understand it, ] ###
 
 The fundamental recipe of who I am is a bunch of Elon Musk’s hated acronyms, the recipe for me:
 
@@ -13,6 +13,8 @@ I’m solely motivated by perpetually learning with a strong desire to face chal
 As a former digital illustrator/marketer I've been lucky enough to have been exposed to different ways of thinking. I got to work with and for a wide variety of firms in different sectors which has rewarded me with a unique insight into the world of business, and the way people think. 
  
 I'm an aspiring fullstack ruby developer, one of the survivors of the Makers Academy bootcamp [lets hope this will become true]. I want to explore other languages and have a strong pull towards learning C++ and python. I’d love to be part of a team with a strong growth mentality and who are creative and challenge the conventional norm. It would be a plus if there was an open approach to dogs in the workplace...
+
+
 
 
 ## Skills
@@ -47,6 +49,7 @@ While working in marketing I was constantly monitoring campaigns analytics and a
 
 
 
+
 ## Education
 
 #### Makers Academy (start_date to end_date)
@@ -69,24 +72,30 @@ BA Hons Fine Art - with a focus was on digital illustration and drawing
 
 Foundation Diploma - full scholarship to this quirky art school, they changed the way I looked at the world and I'll be forever grateful for that.
 
+
+
+
 ## Experience
 
 **Convince** (start_date to end_date)   
 *The gray space*
+
 It’s a rewarding experience working for a developing micro business, after 5 years we still couldn’t quite work out what my role was called, so I name it “the gray space”. With the business model constantly evolving I got to get my hands dirty and help influence the direction the business should go. Most of my tasks were: 
 
-  Contributed to the business model
-  Marketing stragety – social, PPC, email
-  Backend system design
-  Campaign strategy, creation and implementation, including reporting
-  UX/UI testing for webtools
-  New business and lead generation strategy for clients and Convince
-  In-charge of new technologies and training other staff members on their use.
+* Contributed to the business model
+* Marketing stragety – social, PPC, email
+* Backend system design
+* Campaign strategy, creation and implementation, including reporting
+* UX/UI testing for webtools
+* New business and lead generation strategy for clients and Convince
+* In-charge of new technologies and training other staff members on their use.
 
 **Ginkgo Financial** (start_date to end_date)   
 *Marketing Consultant*  
 Created new business campaign to other accountants, optimised their database and strategy to see a 300% decrease in the amount of times they could create reports for clients.
 Marketing strategy and management, website management, landing page design, was able to create a detailed wireframe for the developer and wrote the content.  
+
+
 
 
 ## Hobbies and Interests
