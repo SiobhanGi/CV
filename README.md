@@ -93,6 +93,7 @@ It’s a rewarding experience working for a developing micro business, after 5 y
 
 **Ginkgo Financial** (start_date to end_date)   
 *Marketing Consultant*  
+
 Created new business campaign to other accountants, optimised their database and strategy to see a 300% decrease in the amount of times they could create reports for clients.
 Marketing strategy and management, website management, landing page design, was able to create a detailed wireframe for the developer and wrote the content.  
 
