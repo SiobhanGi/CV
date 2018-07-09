@@ -13,6 +13,7 @@ I’ve been lucky enough to be exposed to many different industries and have a k
 My desire is to work with people that share the same growth mindset, and to collaborate together to bring out the best in each other.
 
 
+
 ***
 
 ### Projects
@@ -54,20 +55,20 @@ I find the state of pressure counterproductive and strive to avoid falling under
 
 A highly selective, 16-week, intensive coding bootcamp. The course is focuses on writing well-written, easy to understand and maintain code. This is achieved through constantly applying best practices, including:
 
--Pair-programming
--TDD and BDD
--OOP/OOD
--Agile methodologies
--XP Values
+- Pair-programming
+- TDD and BDD
+- OOP/OOD
+- Agile methodologies
+- XP Values
 
 I jumped at the chance of exposing myself to as many new technologies when possible during the course.
 
--Languages: Ruby, JavaScript(inc ES6), Python, Java, React, HTML/CSS
--Web Frameworks: Sinatra, Node.js/Express, Spring Boot
--Databases: PostgreSQL
--Testing: Jasmine, Jest, Enzyme, Nightwatch, Mocha/Chai, Istanbul, Sinon, JUnit, Rspec, Capybara, 
--I/CD tools: Travis CI, Heroku
--CVS: Github
+- Languages: Ruby, JavaScript(inc ES6), Python, Java, React, HTML/CSS
+- Web Frameworks: Sinatra, Node.js/Express, Spring Boot
+- Databases: PostgreSQL
+- Testing: Jasmine, Jest, Enzyme, Nightwatch, Mocha/Chai, Istanbul, Sinon, JUnit, Rspec, Capybara, 
+- CI/CD tools: Travis CI, Heroku
+- CVS: Github
 
 
 #### University of Teeside (2009 - 2013)
@@ -86,21 +87,23 @@ Foundation Diploma - full scholarship to this quirky art school, they changed th
 
 ### Experience
 
-**Convince**
+**Convince** (Nov 2013-present)
+
 *Marketing/BD Manager*
 
 A micro business I wasn’t confined to a conventional role and could help influence the direction the business should go. Most of my tasks were:
 
--Contributed to the business model
--Marketing strategy – social, PPC, email
--Leading the direction of our backend system
--Campaign strategy, creation and implementation, including reporting
--UX/UI testing for webtools
--New business and lead generation strategy for clients and Convince
+- Contributed to the business model
+- Marketing strategy – social, PPC, email
+- Leading the direction of our backend system
+- Campaign strategy, creation and implementation, including reporting
+- UX/UI testing for webtools
+- New business and lead generation strategy for clients and Convince
 
 
-**Ginkgo Financial** (start_date to end_date)   
-Marketing Consultant
+**Ginkgo Financial** (Dec 2017 to April 2018)
+
+*Marketing Consultant*
 
 Created a new business campaign to other accountants, optimised their database and strategy to which saw a 300% decrease in the amount of times they could create reports for clients. 
 
