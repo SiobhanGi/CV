@@ -23,6 +23,7 @@ My desire is to work with people that share the same growth mindset, and to coll
 | [Hyper Cat](https://github.com/williampowell92/hyper_cat) | A retro-styled 2D, side-scrolling platform game | Javascript, Express, Node.js, Travis, Heroku | Jasmine, Karma, Istanbul |
 | [Bank Tech Test]( https://github.com/SiobhanGi/banktest_js) | A simple CLI application that simulates bank account management | Javascript, Node.js | Mocha/Chai, Istanbul, Sinon |
 | [AceBook]( https://github.com/SiobhanGi/acebook-millieandco) | A experiment into using a compile language to create a social media | Java, SpringBoot, React, Node.js, Postgres | Jest, Enzyme, Junit, NightWatch |
+| [RPS Game]( https://github.com/SiobhanGi/rps-challenge) | Simple rock-paper-scissors game | Ruby, Sinatra| RSpec, Capybara |
 
 <br/>
 <br/>
