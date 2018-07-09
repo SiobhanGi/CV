@@ -73,6 +73,7 @@ I jumped at the chance of exposing myself to as many new technologies when possi
 - CI/CD tools: Travis CI, Heroku
 - CVS: Github
 
+<br/>
 
 **University of Teeside** *(2009 - 2013)*
 
@@ -80,6 +81,7 @@ BA Computer Game Art - specialised in environmental and character concept art (t
 
 BA Hons Fine Art - with a focus was on digital illustration and drawing. Was accepted to the top 3 art universities in London.
 
+<br/>
 
 **Blake College** *(2008 - 2009)*
 
@@ -101,6 +103,7 @@ A micro business I wasn’t confined to a conventional role and could help influ
 - UX/UI testing for webtools
 - New business and lead generation strategy for clients and Convince
 
+<br/>
 
 **Ginkgo Financial** *(Dec 2017 to April 2018) - Marketing Consultant*
 
