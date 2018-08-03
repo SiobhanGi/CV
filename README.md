@@ -3,13 +3,16 @@
 ***
 ## Siobhan Goggins siobhan.goggins@gmail.com
 
-I am a junior software developer and recently graduated from Makers Academy.
+I am a junior software developer who recently graduated from Makers Academy.
 
-As a female INTJ I’m a natural creative and logical thinker, I fell in love with coding as it’s the perfect collaboration of both worlds. My drive iis to perpetually learn new things. 
+Previously I spent 5years in Marketing and studied Computer Game Art and Fine Art in university, I’ve always been drawn to creation, whether it be a digital illustration to a writing a program and seeing it come alive on screen.
 
-I’ve been lucky enough to be exposed to many different industries and have a keen interest in psychology, I believe my experience would offer different and deeper insights into problems to aid problem solving processes.
+As a female INTJ I’m a natural creative and logical thinker, and I fell in love with coding as it’s the perfect collaboration of both worlds. What drives me is to chance to perpetually learn new things, and in the world programming you never stop learning.
 
-My desire is to work with people that share the same growth mindset, and to collaborate together to bring out the best in each other.
+I’ve been lucky enough to be exposed to many different sectors, and have a keen interest in psychology, I used my skills in marketing to aid the creation of webtools that would lead the user through a digital experience and subtly influence them to buy the clients product. 
+I believe my experience would offer different, and deeper insights into problems to aid problem solving process.
+
+My desire is to work with people that share the same growth mindset, and to collaborate as a team and bring out the best in each other to create amazing products and experiences.
 <br/>
 <br/>
 
@@ -23,8 +26,6 @@ My desire is to work with people that share the same growth mindset, and to coll
 | [Hyper Cat](https://github.com/williampowell92/hyper_cat) | A retro-styled 2D, side-scrolling platform game | Javascript, Express, Node.js, Travis, Heroku | Jasmine, Karma, Istanbul |
 | [Bank Tech Test]( https://github.com/SiobhanGi/banktest_js) | A simple CLI application that simulates bank account management | Javascript, Node.js | Mocha/Chai, Istanbul, Sinon |
 | [AceBook]( https://github.com/SiobhanGi/acebook-millieandco) | A experiment into using a compile language to create a social media | Java, SpringBoot, React, Node.js, Postgres | Jest, Enzyme, Junit, NightWatch |
-| [RPS Game]( https://github.com/SiobhanGi/rps-challenge) | Simple rock-paper-scissors game | Ruby, Sinatra| RSpec, Capybara |
-
 <br/>
 <br/>
 
@@ -119,7 +120,7 @@ Marketing strategy and management, website management, landing page design, was 
 
 I love running, yoga, and climbing.
 
-I classify myself as a creator and builder of things, from large DIY projects to building PC’s.
+I classify myself as a creator and builder of things.
 
 I’m a keen animal lover, nothing beats taking my dog for a walk in the woods.
 
