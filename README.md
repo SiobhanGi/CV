@@ -24,10 +24,12 @@ My desire is to work with people that share the same growth mindset, and to coll
 | Title | Description | Technologies | Testing Framework
 |--|--|--|--|
 | [Hyper Cat](https://github.com/williampowell92/hyper_cat) | A retro-styled 2D, side-scrolling platform game | Javascript, Express, Node.js, Travis, Heroku | Jasmine, Karma, Istanbul |
+| [Tic Tac Toe]( https://github.com/SiobhanGi/TicTacToe) | The logic for 2-player game of TicTacToe  | Javascript ES6, Node.js | Jasmine-node, Karma |
 | [Bank Tech Test]( https://github.com/SiobhanGi/banktest_js) | A simple CLI application that simulates bank account management | Javascript, Node.js | Mocha/Chai, Istanbul, Sinon |
 | [AceBook]( https://github.com/SiobhanGi/acebook-millieandco) | A experiment into using a compile language to create a social media | Java, SpringBoot, React, Node.js, Postgres | Jest, Enzyme, Junit, NightWatch |
 <br/>
 <br/>
+
 
 ***
 
